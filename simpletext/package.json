@@ -1,0 +1,14 @@
+{
+  "name": "simpletext",
+  "version": "1.0.0",
+  "description": "Simple text",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "wp-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^19.2.3"
+  }
+}

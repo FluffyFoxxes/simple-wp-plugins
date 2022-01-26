@@ -1,0 +1,16 @@
+{
+  "name": "qrtime",
+  "version": "1.0.0",
+  "description": "Qrcode time",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "lint:js": "wp-scripts lint-js"
+  },
+  "author": "Maxim Gysev <mak4ic@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^19.2.3"
+  }
+}
